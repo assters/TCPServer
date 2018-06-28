@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ServerProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SServer.cpp
+c:\users\d.vasilyev\documents\visual studio 2015\projects\tcpserver\serverproject\sserver.cpp(26): warning C4101: ssdf: неиспользованная локальная переменная
+c:\users\d.vasilyev\documents\visual studio 2015\projects\tcpserver\serverproject\sserver.cpp(57): warning C4101: from_struct: неиспользованная локальная переменная
+c:\users\d.vasilyev\documents\visual studio 2015\projects\tcpserver\serverproject\sserver.cpp(56): warning C4101: buffer: неиспользованная локальная переменная
+  SClient.cpp
+  main.cpp
+  Создание кода...
+  ServerProject.vcxproj -> C:\Users\d.vasilyev\Documents\Visual Studio 2015\Projects\TCPServer\Debug\server.exe
+  ServerProject.vcxproj -> C:\Users\d.vasilyev\Documents\Visual Studio 2015\Projects\TCPServer\Debug\server.pdb (Partial PDB)
